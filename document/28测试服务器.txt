@@ -1,0 +1,100 @@
+
+## 测试服务器 192.168.1.28
+    账号 workway 密码 HeMei457@#
+
+mongodb
+	192.168.1.28:27017
+	
+mysql
+	root@aa791011aa
+
+appuser
+rb_svr@42W
+
+
+gogs(git代码库)
+	http://192.168.1.28:3000/
+	
+maven
+	http://192.168.1.28:9901/nexus/
+	账号 admin 密码 wayadmin
+
+elasticsearch
+
+	
+192.168.1.28:9200
+	
+redis
+	192.168.1.28:6379
+	密码：hemei2017
+
+## 其他
+原型
+	https://modao.cc/app/78238921a7ac4ba11775a97d9e23e674d69e7d86
+
+科大讯飞
+	http://aiui.xfyun.cn/help/whitepaper
+	帐号 56372239@qq.com 密码 aa791011aa
+
+	
+####################################################
+公司网站
+oa：
+http://oa.workway.com.cn/c6/Jhsoft.Web.login/PassWordSlide.aspx
+邮箱：
+http://mail.qiye.163.com/js6/main.jsp?sid=aAWSHcHojfqRrRuiEuooIyqrLaDUyqmn&hl=zh_CN#module=welcome.CorpWelcomeModule%7C%7B%7D
+代码等：
+http://confluence.workway.com.cn:8090/#all-updates
+
+
+
+########################wifi
+hw_wifi_001
+Hm123456
+
+HMAP08
+WORKASD^-^
+
+老机器人
+huawei
+192.168.10.1
+94495378
+12345678
+
+#####################账户
+###############汉口
+hkadmin
+hk@321_adm
+
+###############农业
+abcadmin
+1234qwer
+
+abceditor
+123456
+
+
+###############东莞
+dgadmin
+1234qwer
+
+dgeditor
+123789
+
+
+#############天津
+abcadmin
+1234qwer
+
+abceditor
+123456
+
+
+
+############Redis
+admin=admin@HmRobot
+
+
+
+
+
