@@ -1,15 +1,13 @@
 
-## 测试服务器 192.168.1.28
-    账号 workway 密码 HeMei457@#
+########################################### 测试服务器 192.168.1.28
+账号 workway 密码 HeMei457@#
+     xiao 1992
 
 mongodb
 	192.168.1.28:27017
 	
 mysql
 	root@aa791011aa
-
-appuser
-rb_svr@42W
 
 
 gogs(git代码库)
@@ -28,6 +26,12 @@ redis
 	192.168.1.28:6379
 	密码：hemei2017
 
+语义服务器日志
+/home/appuser/logs/robot_svr$ tail -f robot_svr.log
+/home/appuser/logs/supervisor$ tail -f robot_server.log
+
+
+
 ## 其他
 原型
 	https://modao.cc/app/78238921a7ac4ba11775a97d9e23e674d69e7d86
@@ -37,8 +41,8 @@ redis
 	帐号 56372239@qq.com 密码 aa791011aa
 
 	
-####################################################
-公司网站
+
+公司网站####################################################
 oa：
 http://oa.workway.com.cn/c6/Jhsoft.Web.login/PassWordSlide.aspx
 邮箱：
@@ -46,11 +50,13 @@ http://mail.qiye.163.com/js6/main.jsp?sid=aAWSHcHojfqRrRuiEuooIyqrLaDUyqmn&hl=zh
 代码等：
 http://confluence.workway.com.cn:8090/#all-updates
 
+VPN###
+zhufk
+Zhufk$%12c
 
-
-########################wifi
-hw_wifi_001
-Hm123456
+wifi########################
+hm_wifi_001
+hm88888888
 
 HMAP08
 WORKASD^-^
@@ -61,7 +67,20 @@ huawei
 94495378
 12345678
 
-#####################账户
+
+生产环境#####################账户
+
+118.126.91.140
+readonly/read@0718
+
+
+日志：/home/appuser/app/logs/robot
+
+appuser/gkb@871way
+
+xiao 1992
+
+
 ###############汉口
 hkadmin
 hk@321_adm
@@ -83,10 +102,26 @@ dgeditor
 
 
 #############天津
-abcadmin
+tjadmin
 1234qwer
 
-abceditor
+tjeditor
+123456
+
+
+#############南宁浦发
+pfadmin
+1234qwer
+
+pfeditor
+123456
+
+
+#############上海
+shadmin
+1234qwer
+
+sheditor
 123456
 
 
