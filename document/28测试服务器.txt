@@ -3,6 +3,9 @@
 账号 workway 密码 HeMei457@#
      xiao 1992
 
+平台开发：/home/evan/apache-tomcat-7.0.82  9000端口
+平台测试：/home/evan/app/tomcat7  7001端口
+
 mongodb
 	192.168.1.28:27017
 	
@@ -21,6 +24,7 @@ elasticsearch
 
 	
 192.168.1.28:9200
+
 	
 redis
 	192.168.1.28:6379
@@ -50,7 +54,7 @@ http://mail.qiye.163.com/js6/main.jsp?sid=aAWSHcHojfqRrRuiEuooIyqrLaDUyqmn&hl=zh
 代码等：
 http://confluence.workway.com.cn:8090/#all-updates
 
-VPN###
+VPN############
 zhufk
 Zhufk$%12c
 
@@ -68,17 +72,33 @@ huawei
 12345678
 
 
-生产环境#####################账户
+生产环境1###################################
+外网IP:118.126.91.140
+内网IP:172.16.32.7
 
-118.126.91.140
-readonly/read@0718
+内网ssh:192.168.1.85:2010
+appuser/gkb@e7^1w-ay
 
 
-日志：/home/appuser/app/logs/robot
+平台服务器：/home/appuser/app/tomcat8
+语义服务器日志：/home/appuser/app/logs/robot
 
-appuser/gkb@871way
 
-xiao 1992
+生产环境2##################################
+外网IP:118.126.91.109
+内网IP:
+
+内网ssh:192.168.1.85:2020
+appuser/rb_svr@42W
+ssh appuser@118.126.91.109 	密码：rb_svr@42W
+
+
+redis 6480
+hm54#fHI#uf
+##mq
+admin=admin@HmRobot
+redis-cli -h 127.0.0.1 -p 6480 -a hm54#fHI#uf
+
 
 
 ###############汉口
@@ -90,7 +110,7 @@ abcadmin
 1234qwer
 
 abceditor
-123456
+123789
 
 
 ###############东莞
@@ -126,8 +146,7 @@ sheditor
 
 
 
-############Redis
-admin=admin@HmRobot
+
 
 
 
