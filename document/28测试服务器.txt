@@ -83,6 +83,12 @@ appuser/gkb@e7^1w-ay
 平台服务器：/home/appuser/app/tomcat8
 语义服务器日志：/home/appuser/app/logs/robot
 
+jdbc.driver=com.mysql.jdbc.Driver
+jdbc.url=jdbc:mysql://172.16.32.7:3306/way_robot_kb?useUnicode=true&characterEncoding=utf-8&autoReconnect=true&failOverReadOnly=false
+jdbc.username=way_gkb
+jdbc.password=work@gkb372!
+
+
 
 生产环境2##################################
 外网IP:118.126.91.109
